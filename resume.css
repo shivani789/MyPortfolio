@@ -1,0 +1,44 @@
+.navy {
+  margin-bottom: 20px;
+  background-color: rgb(197, 236, 20);
+}
+#name {
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.links {
+  border-right-color: teal;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+.headings {
+  background-color: rgb(221, 214, 214);
+  font-size: 20px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  margin-bottom: 20px;
+}
+#myresume {
+  font-size: 30px;
+  font-family: cursive;
+  margin-bottom: 20px;
+}
+.projects {
+  margin-left: 13px;
+}
+.description {
+  margin-left: 40px;
+}
+.dates {
+  padding-left: 10px;
+}
+#main {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
