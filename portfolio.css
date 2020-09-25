@@ -1,0 +1,15 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+#photo{
+    height:50px;
+    width: 50px;
+}
+.nav-item{
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+html {
+    scroll-behavior: smooth;
+  }
